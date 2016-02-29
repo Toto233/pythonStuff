@@ -23,3 +23,7 @@ http://chromedriver.storage.googleapis.com/index.html?path=2.20/
 在py文件相同目录下用gbk编码建立list.txt文件，每行一个人名（备注）
 ### 第三步执行py程序。
 所有列表中的好友都会被拉进群。进群后会说一句话“欢迎进群”
+### 感谢
+感谢各种做轮子的大神
+[Urinx/WeixinBot](https://github.com/Urinx/WeixinBot/)
+[0x5e/wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends/)
